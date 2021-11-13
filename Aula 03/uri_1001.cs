@@ -6,5 +6,6 @@ using System;
      int b = int.Parse(Console.ReadLine());
      int c = a + b;
      Console.WriteLine($"X = {c}");
+     Console.WriteLine("TESTE PUSH");
    }
  }
