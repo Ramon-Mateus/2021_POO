@@ -7,5 +7,6 @@ using System;
      int c = a + b;
      Console.WriteLine($"X = {c}");
      Console.WriteLine("TESTE PUSH");
+     Console.WriteLine("TESTE 2 PUSH");
    }
  }
